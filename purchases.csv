@@ -1,0 +1,6 @@
+PurchaseID,CustomerID,Product,Quantity,Amount
+P001,101,Laptop,1,90000
+P002,102,Phone,2,50000
+P003,103,Mouse,3,3000
+P004,104,Laptop,1,90000
+P005,101,Keyboard,2,5000

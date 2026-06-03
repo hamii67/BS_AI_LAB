@@ -1,0 +1,6 @@
+CustomerID,MembershipType,JoinDate
+101,Gold,2024-01-05
+102,Silver,2024-02-10
+103,Gold,2024-03-15
+104,Bronze,2024-04-20
+105,Silver,2024-05-10
